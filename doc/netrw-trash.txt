@@ -1,0 +1,14 @@
+*netrw-trash.txt* Plugin for making netrw send file to the trash in macOS.
+
+                                        *netrw-trash-Configuration*
+
+This plugin works with the trash script available here:
+
+>
+    https://github.com/morgant/tools-osx/blob/master/src/trash
+<
+
+You must download this and put it somewhere on your path.
+
+
+vim: ft=help et ts=4 sts=4 sw=4
